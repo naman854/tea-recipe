@@ -1,2 +1,1 @@
-# tea-recipe
-this is my tea recipe
+This is my tea recipe
